@@ -5,3 +5,4 @@ git status repository와 로컬 싱크 상태
 git add .   변경된 파일들을 모두 tracking
 git commit -m "message" 인식 할 수 있는 commit을 달아줌
 git push origin +master 실제로 git에 push
+dmd dkdlt
