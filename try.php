@@ -38,5 +38,5 @@ else{
 mysqli_close($link);  
    
 ?>
-[출처] 안드로이드+MYSQL+PHP 웹서버 연동하기 -2|작성자 흐이준
+
 
