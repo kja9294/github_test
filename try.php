@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>MySql-PHP ¿¬°á Å×½ºÆ®</title>
+  <title>MySql-PHP ì—°ê²° í…ŒìŠ¤íŠ¸</title>
 </head>
 <body>
  
 <?php
-echo "MySql ¿¬°á test<br>";
+echo "MySql ì—°ê²° test<br>";
  
-$db = mysqli_connect("localhost", "root", "ºñ¹Ð¹øÈ£", "world");
+$db = mysqli_connect("localhost", "root", "ë¹„ë°€ë²ˆí˜¸", "world");
  
 if($db){
     echo "connect : success<br>";
